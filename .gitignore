@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
